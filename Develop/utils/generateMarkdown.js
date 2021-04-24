@@ -43,7 +43,7 @@ function generateMarkdown(answers) {
   ## Usage
   ${answers.usage}
   ## License
-  ![license](https://img.shields.io/badge/License-${answers.license})
+  ![license](https://img.shields.io/badge/License-${answers.license}-blue.svg)
 
   <br />
   This application is covered by the ${answers.license}. 
