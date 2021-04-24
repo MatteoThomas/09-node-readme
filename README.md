@@ -1,8 +1,8 @@
 
-  <h1>Homework 09</h1><br />
+  <h1>Homework-09</h1><br />
 
   ## Description
-  It's my README.md generator
+  It's a readme gen
   ## Table of Contents
   - [Description](#description)
   - [Installation](#installation)
@@ -13,16 +13,16 @@
   - [Questions](#questions)
   <br />
   ## Installation
-  Follow the links
+  run node index.js
   ## Usage
-  type node index.js and answer the questions
+  answer the questions
   ## License
-  ![license](https://img.shields.io/badge/License-MPL%202.0-brightgreen.svg)
+  ![license](https://img.shields.io/badge/License-MIT-blue.svg)
 
   <br />
-  This application is covered by the MPL%202.0-brightgreen.svg. 
+  This application is covered by the MIT. 
   ## Contributing
-  I can't
+  I don't know
   ## Tests
   I don't have any <br />
 
