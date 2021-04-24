@@ -11,7 +11,7 @@
   - [Contributing](#contributing)
   - [Tests](#tests)
   - [Questions](#questions)
-  <br />
+
   ## Installation
   run node index.js
   ## Usage
@@ -19,12 +19,12 @@
   ## License
   ![license](https://img.shields.io/badge/License-MIT-blue.svg)
 
-  <br />
+
   This application is covered by the MIT. 
   ## Contributing
   I don't know
   ## Tests
-  I don't have any <br />
+  I don't have any
 
   ## Questions
   MatteoThomas (https://github.com/MatteoThomas)<br />
