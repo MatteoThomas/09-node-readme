@@ -76,7 +76,6 @@ const questions = [{
         async function init() {
           try {
             const userResponses = await inquirer.prompt(questions);
-
             const markdown = generateMarkdown(userResponses);
             await writeFileAsync('./dist/README.md', markdown);
         console.log('Successfully wrote to README.md');
@@ -90,12 +89,6 @@ const questions = [{
 
 };
 
-inquirer.prompt(questions).then(answers => {
-    var badge = (answers['license']);
-    console.log(badge)});
-
         // Function call to initialize app
         init();
-
-     //   module.exports = userResponses
         

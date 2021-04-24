@@ -8,5 +8,4 @@ module.exports = [
   
 ];
 
-//console.log(module.exports[1].name)
 
