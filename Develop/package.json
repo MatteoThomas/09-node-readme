@@ -1,7 +1,6 @@
 {
   "name": "static-site",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -11,7 +10,10 @@
   "dependencies": {
     "@octokit/core": "^3.4.0",
     "inquirer": "^6.5.2",
+    "node": "^16.0.0",
     "request": "^2.88.2",
     "util": "^0.12.3"
-  }
+  },
+  "devDependencies": {},
+  "description": ""
 }
